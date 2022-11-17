@@ -94,14 +94,14 @@ export const WETH = {
   ),
   [ChainId.ARCHIE]: new Token(
     ChainId.ARCHIE,
-    '0xC1128CB655cB12A67228505a86c6C867033215fF',
+    '0x6dE594f9ab88B02bc890e0C4eB0B2b936E3Cf2E4',
     18,
     'WARC',
     'Wrapped ARC'
   ),
   [ChainId.TARCHIE]: new Token(
     ChainId.TARCHIE,
-    '0xC1128CB655cB12A67228505a86c6C867033215fF',
+    '0x6dE594f9ab88B02bc890e0C4eB0B2b936E3Cf2E4',
     18,
     'WARC',
     'Wrapped ARC'
